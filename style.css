@@ -1,0 +1,87 @@
+*{
+    margin: auto;
+    font-family: "inter";
+}
+
+
+#menu{
+    background-color: #303030;
+    contain: layout;
+    padding-bottom: 50px;  
+}
+
+#textomenu{
+    color:white;
+    margin: 100px 50px 50px;
+}
+
+
+#menuinformacional{
+    background-color: #F9F9F9;]
+    width: 1440px;
+    
+  
+}
+
+#textomenuinformacional{
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+    padding: 50px;
+    text-align: left;
+}
+
+
+#secaoinformativa{
+    background-color: white;
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+    text-align: center;
+    padding: 100px 10px 100px;
+
+}
+
+#textosecao{
+    padding: 150px 10px 150px;
+}
+
+#formulario{
+    background-color: #303030;
+    text-align: center;
+}
+
+#tituloform{
+    color: white;
+    padding: 60px 0px 30px;
+    font-size: 32px;
+}
+
+input{
+    width: 490px;
+    height:72px;
+    background-color: #FFFFFF;
+    margin: 25px;
+    border: 0px;
+    border-radius: 10px;
+    padding-left: 30px;
+    font-size: 24px;
+    font-weight: bolder;
+    color:#0000004D;
+}
+
+button{
+    background: #C07212;
+    width:286px;
+    height:74px;
+    color: #FFFFFF;
+    border: 0px;
+    border-radius: 5px;
+    margin-bottom: 50px;
+    margin:35px;
+    font-weight: bolder;
+    font-size: 30px;
+    margin-top: 80px;
+    cursor: pointer;    
+
+}
